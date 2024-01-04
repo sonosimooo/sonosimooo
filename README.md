@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sonosimooo
+- 👀 Join in my Server Discord!
+- 🌱 https://discord.gg/GrDzqaPU
+- 💞️ I’m good with arduino
+- 📫 To collaborate
+- simonecardella8@gmail.com 
