@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonosimooo
 - 👀 Join in my Server Discord!
-- 🌱 
+- 🌱 https://discord.com/invite/PWjSuhzh8Q
 - 💞️ Learning Discord.js
 - 📫 To collaborate
 - simonecardella8@gmail.com 
