@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @sonosimooo
-- 👀 Join in my Server Discord!
-- 🌱 https://discord.com/invite/PWjSuhzh8Q
-- 💞️ Learning JavaScript
-- 📫 To collaborate
-- simonecardella8@gmail.com 
-- 🔑 My npm package: simo-package
+- 🤝 Collab: //
+- 🔑 Developer python / js / html / css
